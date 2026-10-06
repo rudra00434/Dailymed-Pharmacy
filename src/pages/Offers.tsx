@@ -1,4 +1,4 @@
-import { Star, ShoppingCart, Heart, Tag, Percent } from 'lucide-react';
+import { ShoppingCart, Heart, Tag, Percent } from 'lucide-react';
 
 const OFFER_PRODUCTS = [
   {
